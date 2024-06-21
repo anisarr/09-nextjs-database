@@ -36,6 +36,10 @@ Pada deploy menampilkan halaman home dari next.js
 ### Soal 4
 ![alt text](asset-report/05.png)
 
+### Soal 5
+![alt text](image-1.png)
+![alt text](image-2.png)
+
 
 
 
