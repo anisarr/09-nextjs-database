@@ -43,6 +43,10 @@ Pada deploy menampilkan halaman home dari next.js
 ### Soal 6
 ![alt text](image-3.png)
 
+### Soal 7
+
+
+
 
 
 
