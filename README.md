@@ -48,6 +48,12 @@ Pada deploy menampilkan halaman home dari next.js
 ### Soal 7
 ![alt text](asset-report/09.png)
 
+### Tugas Praktikum | 01
+![alt text](asset-report/10.png)
+
+
+
+
 
 
 
