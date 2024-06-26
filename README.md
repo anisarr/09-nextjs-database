@@ -51,6 +51,8 @@ Pada deploy menampilkan halaman home dari next.js
 ### Tugas Praktikum | 01
 ![alt text](asset-report/10.png)
 
+### Tugas Praktikum | 02
+Di langkah pertama, proses desktrukturisasi hasil dilakukan pada fetchCardData untuk menghasilkan sebuah objek. Objek ini mencakup statistik seperti, totalPaidInvoices, numberOfInvoices, totalPendingInvoices, numberOfCustomers. Objek tersebut kemudian diuraikan menjadi variabel-variabel terpisah, memungkinkan penggunaan langsung variabel tersebut dalam fungsi Page.
 
 
 
